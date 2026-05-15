@@ -4030,6 +4030,11 @@ input, select, textarea {
 	
 	}
 
+	.features li.icon.project-terrabase:before {
+	background-image: url("../css/images/terrabaseLogo.png");
+	
+	}
+
 	/* Project Tools */
 
 	.project-tools {
